@@ -1,5 +1,5 @@
 ---
-title: Urban Farming: The Green Revolution in Concrete Jungles
+title: Urban Farming - The Green Revolution in Concrete Jungles
 date: 2023-08-18
 slug: urban-farming-green-revolution
 ---
