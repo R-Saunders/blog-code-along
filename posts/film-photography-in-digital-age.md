@@ -2,6 +2,8 @@
 title: The Revival of Film Photography in the Digital Age
 date: 2023-08-18
 slug: film-photography-in-digital-age
+substrap: In a world dominated by smartphones and digital cameras, it might seem paradoxical to witness a resurgence of film photography. Yet, analog cameras and film rolls are making a notable comeback. Let's dive into why this old-school method is finding new admirers in a digital age.
+
 ---
 
 ## A Nostalgic Renaissance
